@@ -1,4 +1,4 @@
-[![MasterHead](https://25.media.tumblr.com/f1fea510d6f3495c0a33e5f45c978ff9/tumblr_muf3e3Qhe51ru39xmo1_500.gif)]
+<p align='center'><img src='https://25.media.tumblr.com/f1fea510d6f3495c0a33e5f45c978ff9/tumblr_muf3e3Qhe51ru39xmo1_500.gif' width=400></p>
 <h1 align="center">Hi there👋, I'm Vaibhav!</h1>
 <h3 align="center">Nah blud, I can't. Too lazy to write something about me... Just checkout the summary...👇</h3>
 
@@ -18,4 +18,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=47seconds&show_icons=true&locale=en" alt="47seconds" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=47seconds&" alt="47seconds" /></p>
+<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=47seconds&theme=radical&border_radius=)](https://git.io/streak-stats" alt="47seconds" height=200/></p>
