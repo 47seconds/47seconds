@@ -22,4 +22,5 @@
 <a href="https://www.codechef.com/users/x47seconds" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="x47seconds" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/47seconds" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="47seconds" height="30" width="40" /></a>
 </p>
-- 📫 Reach me at: *vaibhavlakshkar.12345@gmail.com**
+<br>
+- 📫 Reach me at: <a href="">vaibhavlakshkar.12345@gmail.com</a>
